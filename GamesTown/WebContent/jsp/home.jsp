@@ -57,7 +57,7 @@
         <ul>
             <li>🎮 Nuove uscite PS5!</li>
             <li>🔥 Sconti estivi su Xbox</li>
-            <li>🛠️ Manutenzione server 22/05</li>
+            <li>🛠️ Promo speciali solo per te!</li>
         </ul>
     </aside>
 
