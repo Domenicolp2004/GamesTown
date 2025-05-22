@@ -12,7 +12,7 @@
 
     <!-- SIDEBAR: Logo + Navbar -->
     <aside class="sidebar">
-        <img src="../images/logo.png" alt="GamesTown Logo" class="logo">
+        <img src="../images/town (2).png" alt="GamesTown Logo" class="logo">
         <nav class="nav">
             <ul>
                 <li><a href="home.jsp">Home</a></li>
