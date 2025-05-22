@@ -38,15 +38,15 @@
             <div class="product-grid">
                 <div class="product-item">
                     <img src="../images/game1.jpg" alt="Game 1">
-                    <p>CyberWorld 2077</p>
+                    <p>Fifa 25</p>
                 </div>
                 <div class="product-item">
                     <img src="../images/game2.jpg" alt="Game 2">
-                    <p>Fantasy Legends</p>
+                    <p>Nba 2k25</p>
                 </div>
                 <div class="product-item">
                     <img src="../images/game3.jpg" alt="Game 3">
-                    <p>Racing X</p>
+                    <p>Call of duty</p>
                 </div>
             </div>
         </section>
