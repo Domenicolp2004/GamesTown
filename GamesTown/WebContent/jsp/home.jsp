@@ -53,7 +53,7 @@
     </main>
 
     <aside class="news-section">
-        <h3>Ultime News</h3>
+        <h3>Ultime New</h3>
         <ul>
             <li>🎮 Nuove uscite PS5!</li>
             <li>🔥 Sconti estivi su Xbox</li>
